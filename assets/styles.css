@@ -57,7 +57,7 @@ li.hero-li {
   margin: 0;
   margin-bottom: 7px;
   padding: 0 0 0 30px;
-  background-image: url(/assets/images/checkmark.svg);
+  background-image: url(./assets/images/checkmark.svg);
   background-repeat: no-repeat;
   background-position: left 5px;
   background-size: 20px;
@@ -93,7 +93,7 @@ a.contact-us:hover {
   flex-basis: calc(50% + 70px);
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5)),
-    url(/assets/images/hero-bg1.webp);
+    url(./assets/images/hero-bg1.webp);
   background-repeat: no-repeat;
   background-size: auto;
   background-position: 80px center;
@@ -210,7 +210,7 @@ a.contact-us.darkbg:hover {
   padding: 3rem;
   background:
     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/assets/images/hero-bg.webp);
+    url(./assets/images/hero-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   flex-basis: 33%;
@@ -233,14 +233,14 @@ a.contact-us.darkbg:hover {
 .sold-container__item:nth-child(1) {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/assets/images/sold1.webp);
+    url(./assets/images/sold1.webp);
   border-top-left-radius: 40px;
 }
 
 .sold-container__item:nth-child(3) {
   background-image:
     linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
-    url(/assets/images/sold2.webp);
+    url(./assets/images/sold2.webp);
   background-position: bottom right;
   border-top-right-radius: 40px;
 }
@@ -495,7 +495,7 @@ input.form-control.me-2 {
   .hero-container {
     min-height: fit-content;
     padding-block: 6rem;
-    background-image: url(/assets/images/hero-bg1.webp);
+    background-image: url(./assets/images/hero-bg1.webp);
     background-size: cover;
   }
 
