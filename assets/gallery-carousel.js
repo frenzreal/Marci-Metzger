@@ -2,13 +2,13 @@
   const trackEl = document.getElementById('track');
   
   const images = [
-    "./images/photo-1.webp",
-    "./images/photo-2.webp",
-    "./images/photo-3.webp",
-    "./images/photo-4.webp",
-    "./images/photo-5.webp",
-    "./images/photo-6.webp",
-    "./images/photo-7.webp",
+    "assets/images/photo-1.webp",
+    "assets/images/photo-2.webp",
+    "assets/images/photo-3.webp",
+    "assets/images/photo-4.webp",
+    "assets/images/photo-5.webp",
+    "assets/images/photo-6.webp",
+    "assets/images/photo-7.webp",
   ];
 
   const n = images.length;
